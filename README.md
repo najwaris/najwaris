@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Digital Watermarking <br>🌱 I’m currently learning Microsoft Azure<br>⚡ Fun fact I love to scribble random things
+🔭 I’m currently working on Digital Watermarking combined with Steganography and Cryptography <br>🌱 I’m currently learning Microsoft Azure Fullstack <br>⚡ Fun fact I love to scribble random things
 
 
 ## 🌐 Socials:
