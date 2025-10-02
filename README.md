@@ -43,7 +43,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [🔐 Digital Watermarking & Steganography](https://github.com/your-repo)  
+- [🔐 PokeDex](https://najwaris.github.io/poke-card/#/)  
 
 ---
 
