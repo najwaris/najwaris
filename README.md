@@ -43,7 +43,8 @@
 ---
 
 ## 🚀 Featured Projects
-- [🔐 PokeDex](https://najwaris.github.io/poke-card/#/)  
+- [🔐 PokeDex](https://najwaris.github.io/poke-card/#/)
+- [Recipes Book](https://v0-recipe-book-qrt95o3ed-ncxoud-9284s-projects.vercel.app)
 
 ---
 
