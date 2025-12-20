@@ -2,7 +2,7 @@
 💻 Software Engineer | 🌐 Fullstack Developer | 🔐 Cybersecurity Enthusiast  
 
 🔭 I’m currently working on **Digital Watermarking combined with Steganography and Cryptography**  
-🌱 I’m currently learning **Microsoft Azure Fullstack**  
+🌱 I’m currently learning **Microsoft Power BI** and **CompTIA Security+**  
 ⚡ Fun fact: I love to scribble random things  
 
 ---
