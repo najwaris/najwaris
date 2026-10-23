@@ -26,34 +26,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=najwaris&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=najwaris&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=najwaris&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=najwaris&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=najwaris&limit=5&theme=dark&combine_all_yearly_contributions=true)  
-
----
-
-## 🚀 Featured Projects
-- [🔐 PokeDex](https://najwaris.github.io/poke-card/#/)
-- [Recipes Book](https://v0-recipe-book-qrt95o3ed-ncxoud-9284s-projects.vercel.app)
-
----
-
-## 📈 Activity Graph
-[![Najwa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=najwaris&bg_color=000000&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
----
-
 [![](https://visitcount.itsvg.in/api?id=najwaris&icon=10&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
