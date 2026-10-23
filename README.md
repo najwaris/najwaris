@@ -1,14 +1,15 @@
 # 💫 About Me:
 💻 Software Engineer | 🌐 Fullstack Developer | 🔐 Cybersecurity Enthusiast  
 
-🔭 I’m currently working on **Digital Watermarking combined with Steganography and Cryptography**  
-🌱 I’m currently learning **Microsoft Power BI** and **CompTIA Security+**  
+🌐 **Portfolio:** [nwaee.xyz](https://nwaee.xyz/)  
+🔭 I’m currently working on a **Quantum Computing project**  
+🌱 I’m currently learning **Penetration Testing, Threat Hunting, and Cryptography** from **IBM on Coursera**  
 ⚡ Fun fact: I love to scribble random things  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-najwa-mat-aris)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wawaris2002)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wawaris2002@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-najwa-mat-aris)  [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wawaris2002)  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wawaris2002@gmail.com)  
 
 ---
 
